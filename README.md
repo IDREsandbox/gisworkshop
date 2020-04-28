@@ -8,5 +8,8 @@ If you do not have a UCLA account, you can use the binder page below:
 
 # Instructions to run locally
 
-1. Install Anaconda https://www.anaconda.com/products/individual
 1. Clone this project into a local directory
+1. Install Anaconda https://www.anaconda.com/products/individual
+1. Launch Anaconda Navigator
+1. Launch terminal, and run the following command:
+    1. `pip install -r .\requirements.txt`
