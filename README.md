@@ -16,6 +16,8 @@ If you do not have a UCLA account, you can use the binder page below:
     1. `pip install -r .\requirements.txt`
 1. Navigate to your clone directory and run the notebook
 
+## Additional installation instructions
+
 There may be additional installation requirements. Please follow the instructions here:
 
 https://plotly.com/python/getting-started/
