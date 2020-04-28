@@ -6,3 +6,7 @@ If you do not have a UCLA account, you can use the binder page below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IDREsandbox/gisworkshop/master)
 
+# Instructions to run locally
+
+1. Install Anaconda https://www.anaconda.com/products/individual
+1. Clone this project into a local directory
