@@ -2,6 +2,8 @@
 ## Post workshop survey
 Please take the following survey if you participated in any part of this workshop.
 
+https://bit.ly/39GNKfS
+
 ## UCLA students
 The following workshop is made available for the UCLA community. If you have a UCLA account, you can access the material for this workshop through IDRE's Jupyter notebooks by clicking <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIDREsandbox%2Fgisworkshop&urlpath=lab%2Ftree%2Fgisworkshop%2F">here</a>. Note that you will need a valid g.ucla.edu email account to login.
 
