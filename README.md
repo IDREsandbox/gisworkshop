@@ -1,20 +1,15 @@
 # Introduction to GIS: Getting Started with Spatial Research
-## Post workshop survey
-Please take the following survey if you participated in any part of this workshop.
-
-https://bit.ly/39GNKfS
 
 ## Login to Jupyter Notebook
 The following workshop is made available for the UCLA community. 
 
 Begin by going to the following link, and logging in with your UCLA account, or a gmail account:
 
--  <a href="https://jupyter.uclatall.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIDREsandbox%2Fgisworkshop&urlpath=lab%2Ftree%2Fgisworkshop%2F" target="_blank">GIS Workshop Jupyter Link</a>
+-  <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIDREsandbox%2Fgisworkshop&urlpath=lab%2Ftree%2Fgisworkshop%2F">GIS Workshop Jupyter Link</a>
 
 *This Jupyter Notebook platform is available for the duration of this workshop only. Following the workshop, you are welcome to continue to use this platform, but it will not be supported, nor will it be backed up. Do NOT use this platform for anything other than prototyping and experimentation. We reserve the right to terminate this service at any time.
 
 ## Backup plan
-If you have a UCLA account, you can access the material for this workshop through IDRE's Jupyter notebooks by clicking <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIDREsandbox%2Fgisworkshop&urlpath=lab%2Ftree%2Fgisworkshop%2F">here</a>. Note that you will need a valid g.ucla.edu email account to login.
 
 If you do not have a UCLA account, you can use the binder page below:
 
