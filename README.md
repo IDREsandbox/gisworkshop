@@ -3,7 +3,7 @@
 ## Login to Jupyter Notebook
 The following workshop is made available for the UCLA community. 
 
-Begin by going to the following link, and logging in with your UCLA account, or a gmail account:
+Begin by going to the following link, and logging in with your UCLA account (choose UCLA from dropdown):
 
 -  <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIDREsandbox%2Fgisworkshop&urlpath=lab%2Ftree%2Fgisworkshop%2F">GIS Workshop Jupyter Link</a>
 
