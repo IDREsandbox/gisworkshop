@@ -11,3 +11,5 @@ In the hands-on segment of the workshop, we will be using the following tools to
 * Jupyter Notebooks
 
 To get started, launch the following JupyterHub and login 
+
+* <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIDREsandbox%2Fgisworkshop&urlpath=tree%2Fgisworkshop%2F&branch=master" target="_blank">Launch JupyterHub</a>
