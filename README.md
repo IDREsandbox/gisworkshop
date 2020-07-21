@@ -16,5 +16,6 @@ UCLA participants:
 
 * <a href="https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FIDREsandbox%2Fgisworkshop&urlpath=tree%2Fgisworkshop%2F&branch=master" target="_blank">Launch JupyterHub</a>
 
-Non UCLA participants (may not be as reliable):
+Non UCLA participants (may not be as reliable and is not supported by IDRE):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IDREsandbox/gisworkshop/master)
 * https://mybinder.org/v2/gh/IDREsandbox/gisworkshop/master
